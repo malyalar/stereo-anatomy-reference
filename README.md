@@ -1,5 +1,5 @@
-# An RCT assessing the impact of stereoscopic depth degree on anatomy learning benefit
-This repository is a collection of files and resources for the launch of a small (n~60) randomized controlled trial designed to test the following hypothesis: increased stereoscopic depth as produced by higher inter-camera distance in side-by-side stereoscopic videography will improve the learning of brachial plexus neuroanatomy video module(s).
+# Assessing the impact of hyper and hypostereopsis on neuroanatomy learning
+This repository is a collection of files and resources for running a small (n~60) randomized controlled trial designed to test the following hypothesis: increased stereoscopic depth as produced by higher inter-camera distance in side-by-side stereoscopic videography will improve the learning of brachial plexus neuroanatomy video module(s).
 
 ## Creating Stereoscopic 3D anatomy learning experiences: an artistic and technical reference
 
