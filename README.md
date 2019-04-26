@@ -8,7 +8,7 @@ Most visual media is recorded by a single camera and projected onto a single scr
 ## Creating Stereoscopic 3D anatomy learning experiences: an artistic and technical reference
 
 <p float="left">
-<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents.PNG" width="600" height="340" />
+<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents.PNG" width="600" height="310" />
   <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents2.PNG" width="600" height="220" />
 
   
