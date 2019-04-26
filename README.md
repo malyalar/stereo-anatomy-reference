@@ -9,7 +9,7 @@ Most visual media is recorded by a single camera and projected onto a single scr
 
 <p float="left">
 <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents.PNG" width="600" height="340" />
-  <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents2.PNG" width="600" height="200" />
+  <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents2.PNG" width="600" height="220" />
 
   
 </p>
