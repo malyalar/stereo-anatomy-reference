@@ -8,8 +8,8 @@ Most visual media is recorded by a single camera and projected onto a single scr
 ## Creating Stereoscopic 3D anatomy learning experiences: an artistic and technical reference
 
 <p float="left">
-<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents.PNG" width="600" height="310" />
-  <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents2.PNG" width="600" height="220" />
+<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/Showcase%20images/tableofcontents.PNG" width="600" height="310" />
+<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/Showcase%20images/tableofcontents2.PNG" width="600" height="220" />
 
   
 </p>
@@ -24,7 +24,7 @@ In an effort to not only democratize the distribution of stereoscopic anatomy le
 Spaces are included for wired phone setups (so that the phones can be controlled from an external computer connection). More details on such a setup are included in the attached technical reference .pdf file.
 
 <p float="left">
-<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/spinningMountAnimation.gif" width="600" height="340" />
+<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/Showcase%20images/spinningMountAnimation.gif" width="600" height="340" />
 </p>
 
 
@@ -33,7 +33,7 @@ A quick viewport render of the mount model, developed in Blender 2.8.
 
 ## A hyperstereoptic brachial plexus neuroanatomy module (click on image to visit private YouTube upload)
 
-[![Click this text to see the video.](https://github.com/malyalar/stereoAnatomyReference/blob/master/titleScreenCapture.PNG)](https://www.youtube.com/watch?v=vEzrbDrXUUg)
+[![Click this text to see the video.](https://github.com/malyalar/stereoAnatomyReference/blob/master/Showcase%20images/titleScreenCapture.PNG)](https://www.youtube.com/watch?v=vEzrbDrXUUg)
 
 This video, available in anaglyph, 2D, and stereoscopic side-by-side 3D on YouTube (see technical guide on how to achieve inter-convertability through video metadata, section 7.2), is a full-featured brachial plexus learning module, from roots to terminal branches. Specific learning objectives when developing the video included the featuring of spatial relationships between the brachial plexus nerves, and associated non-nervous structures (e.g. subclavian artery, humeral bone, scalene muscles, etc).
 
