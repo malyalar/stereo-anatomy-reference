@@ -11,7 +11,9 @@ The following document characterizes methods and considerations, both artistic a
 
 
 ## An .stl model mount for dual-smartphone stereo filming setup
-In an effort to not only democratize the distribution of stereoscopic anatomy learning experiences, but also their production, we have developed a 3D-printable, standard-tripod mountable 
+In an effort to not only democratize the distribution of stereoscopic anatomy learning experiences, but also their production, we have developed a 3D-printable, standard-tripod mountable stand that takes two smartphones (not necessarily of the same model) and positions them with adjustable inter-camera distance to film a subject.
+
+Spaces are included for wired phone setups (so that the phones can be controlled from an external computer connection).
 
 ### Credits
 - Module developed with resources from the Education Program in Anatomy, McMaster University
