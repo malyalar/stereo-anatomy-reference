@@ -1,4 +1,9 @@
 # Assessing the impact of hyper and hypostereopsis on neuroanatomy learning
+
+<p float="left">
+<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/Showcase%20images/anaglyphscrn.PNG" width="400" height="200" />
+</p>
+  
 This repository is a collection of files and resources for running a small (n~60) randomized controlled trial designed to test the following hypothesis: increased stereoscopic depth as produced by higher inter-camera distance in side-by-side stereoscopic videography will improve the learning of brachial plexus neuroanatomy video module(s).
 
 Stereopsis refers to the ability to perceive depth, stemming speciﬁcally from the disparity and integration of visual information from two laterally located eyes. Each eye receives a slightly diﬀerent angle on objects in the ﬁeld-of-view, causing horizontal or binocular disparities, which when integrated together, produce an understanding of environmental depth to supplement other visual factors such as motion parallax, contrast, overlap, and more. In anatomy education, spatial awareness and understanding of the distances and relationships between structures is paramount. 
