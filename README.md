@@ -16,7 +16,7 @@ In an effort to not only democratize the distribution of stereoscopic anatomy le
 Spaces are included for wired phone setups (so that the phones can be controlled from an external computer connection).
 
 <p float="left">
-<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/spinningMountAnimation.gif" width="600" height="280" />
+<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/spinningMountAnimation.gif" />
 </p>
 
 ### Credits
