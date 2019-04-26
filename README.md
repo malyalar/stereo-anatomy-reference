@@ -19,6 +19,8 @@ Spaces are included for wired phone setups (so that the phones can be controlled
 <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/spinningMountAnimation.gif" width="600" height="340" />
 </p>
 
+A quick viewport render of the mount model, developed in Blender 2.8.
+
 ### Credits
 - Module developed with resources from the Education Program in Anatomy, McMaster University
 - Filming reference, module, and mount model developed by Rohit Malyala. Poster material/information developed in conjunction with co-authors below.
