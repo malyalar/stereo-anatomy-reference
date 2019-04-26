@@ -14,8 +14,6 @@ The following document characterizes methods and considerations, both artistic a
 In an effort to not only democratize the distribution of stereoscopic anatomy learning experiences, but also their production, we have developed a 3D-printable, standard-tripod mountable 
 
 ### Credits
-Module developed with resources from the Education Program in Anatomy, McMaster University
-
-Filming reference, module, and mount model developed by Rohit Malyala
-
-Many thanks to my supervisor, Dr. Bruce Wainman, and MS1/2's of McMaster: Maxwell, Katherine, Tony, and Ali
+- Module developed with resources from the Education Program in Anatomy, McMaster University
+- Filming reference, module, and mount model developed by Rohit Malyala
+- Many thanks to my supervisor, Dr. Bruce Wainman, and MS1/2's of McMaster: Maxwell, Katherine, Tony, and Ali
