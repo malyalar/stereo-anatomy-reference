@@ -21,6 +21,12 @@ Spaces are included for wired phone setups (so that the phones can be controlled
 
 A quick viewport render of the mount model, developed in Blender 2.8.
 
+## A hyperstereoptic brachial plexus neuroanatomy module (link to YouTube upload)
+
+[![Click this text to see the video.](https://github.com/malyalar/stereoAnatomyReference/blob/master/titleScreenCapture.PNG)](https://www.youtube.com/watch?v=vEzrbDrXUUg)
+
+This video, available in anaglyph, 2D, and stereoscopic side-by-side 3D on YouTube (see technical guide on how to achieve inter-convertability through video metadata, section 7.2), is a full-featured brachial plexus learning module, from roots to terminal branches. Specific learning objectives when developing the video included the featuring of spatial relationships between the brachial plexus nerves, and associated non-nervous structures (e.g. subclavian artery, humeral bone, scalene muscles, etc).
+
 ### Credits
 - Module developed with resources from the Education Program in Anatomy, McMaster University
 - Filming reference, module, and mount model developed by Rohit Malyala. Poster material/information developed in conjunction with co-authors below.
