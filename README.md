@@ -29,7 +29,7 @@ Spaces are included for wired phone setups (so that the phones can be controlled
 
 
 
-A quick viewport render of the mount model, developed in Blender 2.8.
+A quick viewport animation render of the mount model, developed in Blender 2.8.
 
 ## A hyperstereoptic brachial plexus neuroanatomy module (click on image to visit private YouTube upload)
 
