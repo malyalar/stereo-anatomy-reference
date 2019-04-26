@@ -9,6 +9,9 @@ Most visual media is recorded by a single camera and projected onto a single scr
 
 <p float="left">
 <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents.PNG" width="600" height="340" />
+  <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/tableofcontents2.PNG" width="600" height="340" />
+
+  
 </p>
 
 
@@ -23,6 +26,8 @@ Spaces are included for wired phone setups (so that the phones can be controlled
 <p float="left">
 <img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/spinningMountAnimation.gif" width="600" height="340" />
 </p>
+
+
 
 A quick viewport render of the mount model, developed in Blender 2.8.
 
