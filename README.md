@@ -15,6 +15,10 @@ In an effort to not only democratize the distribution of stereoscopic anatomy le
 
 Spaces are included for wired phone setups (so that the phones can be controlled from an external computer connection).
 
+<p float="left">
+<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/spinningMountAnimation.gif" width="600" height="280" />
+</p>
+
 ### Credits
 - Module developed with resources from the Education Program in Anatomy, McMaster University
 - Filming reference, module, and mount model developed by Rohit Malyala. Poster material/information developed in conjunction with co-authors below.
