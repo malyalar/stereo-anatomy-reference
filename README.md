@@ -1,5 +1,5 @@
 # An RCT assessing the impact of stereoscopic depth degree on anatomy learning benefit
-A collection of files and resources to test the following hypothesis: increased stereoscopic depth as produced by higher inter-camera distance in side-by-side stereoscopic videography improves learning of neuroanatomy video modules
+A collection of files and resources for an RCT designed to test the following hypothesis: increased stereoscopic depth as produced by higher inter-camera distance in side-by-side stereoscopic videography improves learning of neuroanatomy video modules
 
 ## Creating Stereoscopic 3D anatomy learning experiences: an artistic and technical reference
 
