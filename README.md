@@ -24,4 +24,4 @@ A quick viewport render of the mount model, developed in Blender 2.8.
 ### Credits
 - Module developed with resources from the Education Program in Anatomy, McMaster University
 - Filming reference, module, and mount model developed by Rohit Malyala. Poster material/information developed in conjunction with co-authors below.
-- Many thanks to my supervisor, Dr. Bruce Wainman, and MS1/2's of McMaster Medicine: Maxwell, Katherine, Tony, and Ali
+- Many thanks to my supervisor, Dr. Bruce Wainman, and MS1/2's of McMaster Medicine: Maxwell Ng, Katherine Kuo, Tony Chen, and Ali Eshaghpour
