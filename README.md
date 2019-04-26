@@ -31,7 +31,7 @@ Spaces are included for wired phone setups (so that the phones can be controlled
 
 A quick viewport render of the mount model, developed in Blender 2.8.
 
-## A hyperstereoptic brachial plexus neuroanatomy module (link to YouTube upload)
+## A hyperstereoptic brachial plexus neuroanatomy module (click on image to visit private YouTube upload)
 
 [![Click this text to see the video.](https://github.com/malyalar/stereoAnatomyReference/blob/master/titleScreenCapture.PNG)](https://www.youtube.com/watch?v=vEzrbDrXUUg)
 
