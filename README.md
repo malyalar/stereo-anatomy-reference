@@ -17,5 +17,5 @@ Spaces are included for wired phone setups (so that the phones can be controlled
 
 ### Credits
 - Module developed with resources from the Education Program in Anatomy, McMaster University
-- Filming reference, module, and mount model developed by Rohit Malyala
-- Many thanks to my supervisor, Dr. Bruce Wainman, and MS1/2's of McMaster: Maxwell, Katherine, Tony, and Ali
+- Filming reference, module, and mount model developed by Rohit Malyala. Poster material/information developed in conjunction with co-authors below.
+- Many thanks to my supervisor, Dr. Bruce Wainman, and MS1/2's of McMaster Medicine: Maxwell, Katherine, Tony, and Ali
