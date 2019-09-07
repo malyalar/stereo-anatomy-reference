@@ -26,14 +26,6 @@ In an effort to not only democratize the distribution of stereoscopic anatomy le
 
 Spaces are included for wired phone setups (so that the phones can be controlled from an external computer connection). More details on such a setup are included in the attached technical reference .pdf file.
 
-<p float="left">
-<img src="https://github.com/malyalar/stereoAnatomyReference/blob/master/Showcase%20images/spinningMountAnimation.gif" width="600" height="340" />
-</p>
-
-
-
-A quick viewport animation render of the mount model, developed in Blender 2.8.
-
 ## A hyperstereoptic brachial plexus neuroanatomy module (click on image to visit private YouTube upload)
 
 [![Click this text to see the video.](https://github.com/malyalar/stereoAnatomyReference/blob/master/Showcase%20images/titleScreenCapture.PNG)](https://www.youtube.com/watch?v=vEzrbDrXUUg)
